@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pyodbc
+python-dotenv
+beautifulsoup4
+streamlit

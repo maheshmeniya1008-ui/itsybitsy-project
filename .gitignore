@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Sensitive Environment Variables (Passwords, Tokens, Keys)
+.env
+*.env
+
+# Large Executable files
+cloudflared.exe
+*.exe
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor configurations
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+
+# Local databases and temporary scraping artifacts
+*.sqlite3
+*.db
